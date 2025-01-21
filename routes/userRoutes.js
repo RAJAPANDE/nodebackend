@@ -1,5 +1,5 @@
 const express = require('express');
-const User = require('c:/Users/pp/webservice-api/routes/userRoutes.js');
+const User = require('./src/routes/userRoutes.js');
 const router = express.Router();
 
 // Save User Data
